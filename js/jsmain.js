@@ -5,7 +5,7 @@ function myFunction() {
 
     // If the variable is not a number we want to display an alert.
     if (isNaN(htmlnum)) {
-        alert(htmlnum + "is not a number ! <br>");
+        alert(htmlnum + "is not a number !");
     }
     //If variable is a number we want to know if the number is even or odd.
     /*Checking if number is even*/
